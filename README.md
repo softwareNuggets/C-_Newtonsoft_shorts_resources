@@ -1,2 +1,2 @@
-# C-_Newtonsoft_shorts_resources
+# CS-_Newtonsoft_shorts_resources
 YouTube Shorts for c# newtonsoft 
